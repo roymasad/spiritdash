@@ -18,4 +18,3 @@ Using C# and monobehaviors
 * Unity Ads support
 * Animations, physics, sprites, 3d models and particle effects
 * Optimized pool spawning system, runs on very low end mobile
-* Included windows(exe) and android(apk) builds
