@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 2bae3f534caca7045b236984dde96060
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crankypixelanimated_0
+    21300002: crankypixelanimated_1
+    21300004: crankypixelanimated_2
+    21300006: crankypixelanimated_3
+    21300008: crankypixelanimated_4
+    21300010: crankypixelanimated_5
+    21300012: crankypixelanimated_6
+    21300014: crankypixelanimated_7
+    21300016: crankypixelanimated_8
+    21300018: crankypixelanimated_9
+    21300020: crankypixelanimated_10
+    21300022: crankypixelanimated_11
+    21300024: crankypixelanimated_12
+    21300026: crankypixelanimated_13
+    21300028: crankypixelanimated_14
+    21300030: crankypixelanimated_15
+    21300032: crankypixelanimated_16
+    21300034: crankypixelanimated_17
+    21300036: crankypixelanimated_18
+    21300038: crankypixelanimated_19
+    21300040: crankypixelanimated_20
+    21300042: crankypixelanimated_21
+    21300044: crankypixelanimated_22
+    21300046: crankypixelanimated_23
+    21300048: crankypixelanimated_24
+    21300050: crankypixelanimated_25
+    21300052: crankypixelanimated_26
+    21300054: crankypixelanimated_27
+    21300056: crankypixelanimated_28
+    21300058: crankypixelanimated_29
+    21300060: crankypixelanimated_30
+    21300062: crankypixelanimated_31
+    21300064: crankypixelanimated_32
+    21300066: crankypixelanimated_33
+    21300068: crankypixelanimated_34
+    21300070: crankypixelanimated_35
+    21300072: crankypixelanimated_36
+    21300074: crankypixelanimated_37
+    21300076: crankypixelanimated_38
+    21300078: crankypixelanimated_39
+    21300080: crankypixelanimated_40
+    21300082: crankypixelanimated_41
+    21300084: crankypixelanimated_42
+    21300086: crankypixelanimated_43
+    21300088: crankypixelanimated_44
+    21300090: crankypixelanimated_45
+    21300092: crankypixelanimated_46
+    21300094: crankypixelanimated_47
+    21300096: crankypixelanimated_48
+    21300098: crankypixelanimated_49
+    21300100: crankypixelanimated_50
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: crankypixelanimated_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1799
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1799
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1799
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_3
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1799
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_4
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1799
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_5
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1799
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_6
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1799
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1560
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1560
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_9
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1560
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_10
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1560
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_11
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1560
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_12
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1560
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_13
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1560
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1321
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_15
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1321
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_16
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1321
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_17
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1321
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_18
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1321
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_19
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1321
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_20
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1321
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1082
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1082
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_23
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1082
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_24
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1082
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_25
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1082
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_26
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1082
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_27
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1082
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 843
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 843
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_30
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 843
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_31
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 843
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_32
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 843
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_33
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 843
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_34
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 843
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 604
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_36
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 604
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_37
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 604
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_38
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 604
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_39
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 604
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_40
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 604
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_41
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 604
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 365
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_43
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 365
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_44
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 365
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_45
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 365
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_46
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 365
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_47
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 365
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_48
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 365
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 126
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crankypixelanimated_50
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 126
+        width: 275
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

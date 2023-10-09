@@ -4,6 +4,8 @@ Unity 2.5D endless runner mobile game
 Requires Unity 5.6x 
 Using C# and monobehaviors
 
+![](spiritdash.jpg)
+
 # Features:
 
 * Different 2.5 levels
